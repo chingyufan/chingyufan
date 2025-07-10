@@ -1,2 +1,2 @@
-Hello\n
+Hello,
 I am Fan
