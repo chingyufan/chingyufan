@@ -1,2 +1,0 @@
-print("pass")
-print("again")
